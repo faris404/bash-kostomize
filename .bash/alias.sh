@@ -1,0 +1,1 @@
+alias workspace='cd /home/faris404/Desktop/workspace'
